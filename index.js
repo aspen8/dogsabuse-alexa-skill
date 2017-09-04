@@ -44,7 +44,7 @@ var handlers = {
         this.emit('GetNewAbuseIntent');
     },
     'Unhandled': function () {
-        this.emit(':ask', HelpMessage, HelpMessage);
+        this.emit(':ask', HELP_MESSAGE, HELP_MESSAGE);
     },
     'GetNewAbuseIntent': function () {
         var abuseArr = data;
