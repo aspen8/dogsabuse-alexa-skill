@@ -27,6 +27,8 @@ var data = [
     "That is the laziest greyhound the world has ever seen",
     "That dog is a cat in disguise",
     "I don't believe that dog is an ex racer, she can't run the length of herself",
+    "Ella is a slagosaurus",
+    "That dog is a flea-ridden skank",
 ];
 
 //=========================================================================================================================================
