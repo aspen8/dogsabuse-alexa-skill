@@ -43,12 +43,12 @@ var handlers = {
     'LaunchRequest': function () {
         this.emit('GetNewFactIntent');
     },
-    'GetNewFactIntent': function () {
-        var factArr = data;
-        var factIndex = Math.floor(Math.random() * factArr.length);
-        var randomFact = factArr[factIndex];
-        var speechOutput = randomFact;
-        this.emit(':tellWithCard', speechOutput, SKILL_NAME, randomFact)
+    'GetNewAbuseIntent': function () {
+        var abuseArr = data;
+        var abuseIndex = Math.floor(Math.random() * abuseArr.length);
+        var randomInsult = abuseArr[abuseIndex];
+        var speechOutput = randomInsult;
+        this.emit(':tellWithCard', speechOutput, SKILL_NAME, randomInsult)
     },
     'AMAZON.HelpIntent': function () {
         var speechOutput = HELP_MESSAGE;
