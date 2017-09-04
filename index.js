@@ -41,7 +41,7 @@ exports.handler = function(event, context, callback) {
 
 var handlers = {
     'LaunchRequest': function () {
-        this.emit('GetNewFactIntent');
+        this.emit('GetNewAbuseIntent');
     },
     'GetNewAbuseIntent': function () {
         var abuseArr = data;
