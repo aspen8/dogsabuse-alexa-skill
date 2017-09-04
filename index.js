@@ -43,6 +43,9 @@ var handlers = {
     'LaunchRequest': function () {
         this.emit('GetNewAbuseIntent');
     },
+    'Unhandled': function () {
+        this.emit(':ask', HelpMessage, HelpMessage);
+    },
     'GetNewAbuseIntent': function () {
         var abuseArr = data;
         var abuseIndex = Math.floor(Math.random() * abuseArr.length);
