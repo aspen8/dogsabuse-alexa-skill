@@ -27,7 +27,7 @@ var data = [
     "I don't believe that dog is an ex racer, she can't even run the length of herself",
     "Ella is a slagosaurus",
     "That dog is a flea-ridden skank",
-    "Ella, nobody even likes you",
+    "Ella, you fucking, fuckfaced, shithead, wee cunt of a whore, nobody even likes you",
 ];
 
 //=========================================================================================================================================
