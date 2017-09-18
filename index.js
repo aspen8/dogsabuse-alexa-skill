@@ -18,7 +18,7 @@ var STOP_MESSAGE = "Goodbye!";
 // List of statements
 //=========================================================================================================================================
 var data = [
-    "Ella's breath is worse than Satan's armpit",
+//    "Ella's breath is worse than Satan's armpit",
     "Ella is a dirty wee strumpet",
     "That dog is a lazy slag",
     "Ella is a smelly wee cow",
