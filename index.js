@@ -18,16 +18,15 @@ var STOP_MESSAGE = "Goodbye!";
 // List of statements
 //=========================================================================================================================================
 var data = [
-//    "Ella's breath is worse than Satan's armpit",
-    "Ella is a dirty wee strumpet",
+//    "Scarlet's breath is worse than Satan's armpit",
+    "Scarlet is a dirty wee strumpet",
     "That dog is a lazy slag",
-    "Ella is a smelly wee cow",
-    "That is the laziest greyhound the world has ever seen",
+    "Scarlet is a smelly wee cow",
     "That dog is a cat in disguise",
-    "I don't believe that dog is an ex racer, she can't even run the length of herself",
-    "Ella is a slagosaurus",
+    "Scarlet, you know I don't speak Spanish",
+    "Scarlet is a slagosaurus",
     "That dog is a flea-ridden skank",
-    "Ella, you fuckfaced wee swine, nobody even likes you",
+    "Scarlet, you fuckfaced wee swine, nobody even likes you",
 ];
 
 //=========================================================================================================================================
